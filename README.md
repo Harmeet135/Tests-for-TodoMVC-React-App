@@ -1,6 +1,6 @@
 # Todo App Testing
 
-This repository contains unit tests for a TodoMVC . The tests are written using the `@testing-library/react` library and are organized for different components within the application.
+This repository contains unit tests for a TodoMVC . The tests are written using the `@testing-library/react` and `jest` library and are organized for different components within the application.
 
 ## Table of Contents
 
