@@ -81,4 +81,16 @@ To run the tests, make sure you have Node.js installed on your system. Then, fol
 
 The tests will execute, and the results will be displayed in the terminal.
 
+
+## How to Run Tests
+
+To run the tests, make sure you have Node.js installed on your system. Then, follow these steps:
+
+1. Clone this repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd <project-directory>`
+3. Install dependencies: `npm install`
+4. Run tests: `npm test`
+
+The tests will execute, and the results will be displayed in the terminal.
+
 Happy testing!
